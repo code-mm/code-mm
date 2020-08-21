@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 项目导航
-https://github.com/m-maohuawei/m-maohuawei/blob/master/%E9%A1%B9%E7%9B%AE%E5%AF%BC%E8%88%AA.md
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=m-maohuawei&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+热爱技术，热爱开发，热爱代码
+
 
 email : mhw828@sina.com
