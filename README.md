@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/m-maohuawei">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-maohuawei&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajeev's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-maohuawei&theme=light&count_private=true&layout=compact,prs,contribs" alt="Rajeev's github stats"/>
 </a>
 
