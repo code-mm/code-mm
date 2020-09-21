@@ -4,8 +4,8 @@
 全栈
 项目需求联系QQ:
 
-<tencent://Message/?Uin=898658615>
-<a href="">QQ898658615</>
+
+<a href="tencent://Message/?Uin=898658615">898658615</>
 
 🌱
 
