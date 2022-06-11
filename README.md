@@ -30,3 +30,11 @@ https://mhw828.com
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-maohuawei&theme=light&count_private=true&layout=compact"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-maohuawei&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 </p>
+
+访问慢=====》
+
+下载链接（推荐使用浏览器访问）：https://bitbucket.org/letsgogo/letsgogo/src/master/
+
+备用链接（推荐使用浏览器访问）：https://github.com/LetsGo666/LetsGo_2
+
+安装后打开填写我的ID：28815295 你能多得3天会员！
