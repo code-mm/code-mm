@@ -1,7 +1,3 @@
-### 一个喜欢写代码的程序员
-
-https://mhw828.com
-
 ## 技能
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/>
